@@ -1,0 +1,181 @@
+	name	num	estimate	p.value	mean	name1	site
+5898	Acinetobacter baumannii	276	0.295481607	5.77E-07	0.001363935	Acinetobacter baumannii	cheek
+2947	Acinetobacter baumannii	264	0.335804776	2.22E-08	0.001270518	Acinetobacter baumannii	forehead
+8784	Acinetobacter baumannii	282	0.252685377	1.75E-05	0.000648194	Acinetobacter baumannii	nose
+8364	Aeromicrobium choanae	265	-0.195542135	0.001378639	1.20E-05	Aeromicrobium choanae	nose
+2375	Aeromicrobium choanae	235	-0.223082131	0.000570921	1.10E-05	Aeromicrobium choanae	forehead
+5292	Aeromicrobium choanae	242	-0.241876207	0.000144811	1.01E-05	Aeromicrobium choanae	cheek
+2370	Agrobacterium sp. RAC06	234	0.224825	0.000529813	3.07E-05	Agrobacterium sp. RAC06	forehead
+5275	Agrobacterium sp. RAC06	239	0.177391183	0.005961964	2.54E-05	Agrobacterium sp. RAC06	cheek
+8149	Agrobacterium sp. RAC06	244	0.136037528	0.03367468	1.59E-05	Agrobacterium sp. RAC06	nose
+2906	Brevundimonas diminuta	264	0.194610999	0.001485587	0.000395402	Brevundimonas diminuta	forehead
+5823	Brevundimonas diminuta	275	0.136648162	0.023428565	0.000310041	Brevundimonas diminuta	cheek
+8752	Brevundimonas diminuta	282	0.133055901	0.02545624	0.000202649	Brevundimonas diminuta	nose
+5533	Chryseobacterium gallinarum	264	0.223599261	0.000249966	3.42E-05	Chryseobacterium gallinarum	cheek
+2576	Chryseobacterium gallinarum	254	0.242906367	9.19E-05	3.23E-05	Chryseobacterium gallinarum	forehead
+8298	Chryseobacterium gallinarum	260	0.142360927	0.021667449	1.59E-05	Chryseobacterium gallinarum	nose
+2377	Chryseobacterium glaciei	235	0.289223328	6.58E-06	3.93E-05	Chryseobacterium glaciei	forehead
+5330	Chryseobacterium glaciei	246	0.296217463	2.26E-06	3.22E-05	Chryseobacterium glaciei	cheek
+8118	Chryseobacterium glaciei	240	0.203231514	0.001550255	2.01E-05	Chryseobacterium glaciei	nose
+5270	Chryseobacterium haifense	238	0.321233174	4.09E-07	3.14E-05	Chryseobacterium haifense	cheek
+2299	Chryseobacterium haifense	224	0.326532848	5.81E-07	2.99E-05	Chryseobacterium haifense	forehead
+8147	Chryseobacterium haifense	244	0.304964092	1.20E-06	1.79E-05	Chryseobacterium haifense	nose
+5805	Chryseobacterium indologenes	275	0.360564077	7.25E-10	0.00042968	Chryseobacterium indologenes	cheek
+2869	Chryseobacterium indologenes	264	0.373850724	3.51E-10	0.00040289	Chryseobacterium indologenes	forehead
+8708	Chryseobacterium indologenes	282	0.270169415	4.17E-06	0.000158704	Chryseobacterium indologenes	nose
+2402	Chryseobacterium sp. IHB B 17019	238	0.301056825	2.24E-06	2.28E-05	Chryseobacterium sp. IHB B 17019	forehead
+5396	Chryseobacterium sp. IHB B 17019	253	0.243808098	8.93E-05	2.08E-05	Chryseobacterium sp. IHB B 17019	cheek
+8203	Chryseobacterium sp. IHB B 17019	251	0.143621767	0.022854962	1.44E-05	Chryseobacterium sp. IHB B 17019	nose
+2519	Chryseobacterium sp. T16E-39	250	0.254560027	4.66E-05	2.22E-05	Chryseobacterium sp. T16E-39	forehead
+5448	Chryseobacterium sp. T16E-39	258	0.287101581	2.76E-06	2.09E-05	Chryseobacterium sp. T16E-39	cheek
+8119	Chryseobacterium sp. T16E-39	240	0.153860545	0.017061772	1.73E-05	Chryseobacterium sp. T16E-39	nose
+5874	Chryseobacterium taklimakanense	276	0.390648795	1.70E-11	0.00382112	Chryseobacterium taklimakanense	cheek
+2871	Chryseobacterium taklimakanense	264	0.377262285	2.35E-10	0.003673988	Chryseobacterium taklimakanense	forehead
+8710	Chryseobacterium taklimakanense	282	0.282177897	1.47E-06	0.002012645	Chryseobacterium taklimakanense	nose
+5781	Corynebacterium diphtheriae	275	0.118981354	0.048712172	0.001219148	Corynebacterium diphtheriae	cheek
+2835	Corynebacterium diphtheriae	264	0.156829336	0.010713916	0.001018396	Corynebacterium diphtheriae	forehead
+8661	Corynebacterium diphtheriae	282	0.136332134	0.022024859	0.001008928	Corynebacterium diphtheriae	nose
+8581	Corynebacterium falsenii	279	0.193797635	0.001140231	0.000101251	Corynebacterium falsenii	nose
+5675	Corynebacterium falsenii	272	0.144820478	0.016845896	9.82E-05	Corynebacterium falsenii	cheek
+2718	Corynebacterium falsenii	261	0.171558087	0.005453745	7.67E-05	Corynebacterium falsenii	forehead
+5727	Corynebacterium flavescens	274	0.156695171	0.009377485	0.000304464	Corynebacterium flavescens	cheek
+8663	Corynebacterium flavescens	282	0.167035138	0.004918517	0.000235343	Corynebacterium flavescens	nose
+2837	Corynebacterium flavescens	264	0.203552968	0.000879298	0.000229039	Corynebacterium flavescens	forehead
+8698	Cutibacterium acnes	282	-0.174140379	0.003348684	0.557763674	Cutibacterium acnes	nose
+5870	Cutibacterium acnes	276	-0.246857979	3.37E-05	0.41530174	Cutibacterium acnes	cheek
+2860	Cutibacterium acnes	264	-0.250580691	3.82E-05	0.412233499	Cutibacterium acnes	forehead
+2643	Deinococcus actinosclerus	258	0.184421367	0.002945129	0.000346627	Deinococcus actinosclerus	forehead
+5598	Deinococcus actinosclerus	268	0.178258812	0.003410738	0.000274082	Deinococcus actinosclerus	cheek
+8634	Deinococcus actinosclerus	281	0.141615328	0.017534367	0.000141252	Deinococcus actinosclerus	nose
+2626	Deinococcus ficus	257	0.191056278	0.002095714	0.000317281	Deinococcus ficus	forehead
+5548	Deinococcus ficus	265	0.168607558	0.005932606	0.00027214	Deinococcus ficus	cheek
+8537	Deinococcus ficus	276	0.160971098	0.007370745	0.000115955	Deinococcus ficus	nose
+2729	Deinococcus geothermalis	261	0.22316882	0.000279023	0.000798328	Deinococcus geothermalis	forehead
+5681	Deinococcus geothermalis	272	0.19194	0.001469696	0.000655719	Deinococcus geothermalis	cheek
+8612	Deinococcus geothermalis	280	0.194862089	0.001047106	0.000340965	Deinococcus geothermalis	nose
+2730	Deinococcus gobiensis	261	0.15567247	0.011793446	0.000215501	Deinococcus gobiensis	forehead
+5599	Deinococcus gobiensis	268	0.143300935	0.018920265	0.000184069	Deinococcus gobiensis	cheek
+8635	Deinococcus gobiensis	281	0.131257355	0.027807395	8.42E-05	Deinococcus gobiensis	nose
+2700	Deinococcus proteolyticus	260	0.239964936	9.31E-05	0.001914645	Deinococcus proteolyticus	forehead
+5612	Deinococcus proteolyticus	269	0.24333306	5.50E-05	0.001764051	Deinococcus proteolyticus	cheek
+8519	Deinococcus proteolyticus	275	0.233521617	9.27E-05	0.00075691	Deinococcus proteolyticus	nose
+2758	Deinococcus radiodurans	262	0.20738915	0.000731128	0.002968503	Deinococcus radiodurans	forehead
+5745	Deinococcus radiodurans	274	0.213111981	0.000381736	0.002649897	Deinococcus radiodurans	cheek
+8712	Deinococcus radiodurans	282	0.195614306	0.000958981	0.001114125	Deinococcus radiodurans	nose
+2731	Deinococcus swuensis	261	0.164851132	0.007613376	0.000406431	Deinococcus swuensis	forehead
+5651	Deinococcus swuensis	271	0.160625844	0.008067392	0.000354437	Deinococcus swuensis	cheek
+8714	Deinococcus swuensis	282	0.143830341	0.015641488	0.000145345	Deinococcus swuensis	nose
+5743	Elizabethkingia anophelis	274	0.388577657	2.62E-11	0.000999112	Elizabethkingia anophelis	cheek
+2872	Elizabethkingia anophelis	264	0.371785712	4.46E-10	0.000767215	Elizabethkingia anophelis	forehead
+8711	Elizabethkingia anophelis	282	0.250294924	2.12E-05	0.000440057	Elizabethkingia anophelis	nose
+5744	Elizabethkingia bruuniana	274	0.329644703	2.29E-08	0.000363255	Elizabethkingia bruuniana	cheek
+2873	Elizabethkingia bruuniana	264	0.342750578	1.09E-08	0.000355527	Elizabethkingia bruuniana	forehead
+8610	Elizabethkingia bruuniana	280	0.21448005	0.000300299	0.000207161	Elizabethkingia bruuniana	nose
+4886	Elizabethkingia meningoseptica	171	0.211466585	0.005495237	6.02E-06	Elizabethkingia meningoseptica	cheek
+2001	Elizabethkingia meningoseptica	175	0.314388324	2.26E-05	5.25E-06	Elizabethkingia meningoseptica	forehead
+7833	Elizabethkingia meningoseptica	176	0.164774159	0.028862489	4.34E-06	Elizabethkingia meningoseptica	nose
+2209	Leadbetterella byssophila	209	0.280796696	3.82E-05	3.49E-05	Leadbetterella byssophila	forehead
+5191	Leadbetterella byssophila	225	0.227428675	0.000586922	3.08E-05	Leadbetterella byssophila	cheek
+8006	Leadbetterella byssophila	218	0.176950954	0.008836301	2.65E-05	Leadbetterella byssophila	nose
+5113	Martelella mediterranea	213	0.144760495	0.034736918	1.83E-05	Martelella mediterranea	cheek
+2235	Martelella mediterranea	213	0.213523143	0.0017235	1.77E-05	Martelella mediterranea	forehead
+7973	Martelella mediterranea	211	0.190265048	0.005559068	7.96E-06	Martelella mediterranea	nose
+1963	Martelella sp. AD-3	167	0.190348913	0.013741718	1.02E-05	Martelella sp. AD-3	forehead
+4974	Martelella sp. AD-3	187	0.168490084	0.02115968	8.38E-06	Martelella sp. AD-3	cheek
+7802	Martelella sp. AD-3	171	0.259540067	0.000608119	5.43E-06	Martelella sp. AD-3	nose
+5735	Microbacterium aurum	274	0.272228123	4.83E-06	0.000391152	Microbacterium aurum	cheek
+2797	Microbacterium aurum	263	0.2938058	1.24E-06	0.000339636	Microbacterium aurum	forehead
+8687	Microbacterium aurum	282	0.239619528	4.79E-05	0.000153159	Microbacterium aurum	nose
+5472	Microbacterium chocolatum	260	0.170299253	0.005907002	9.93E-05	Microbacterium chocolatum	cheek
+2753	Microbacterium chocolatum	262	0.247101233	5.27E-05	7.68E-05	Microbacterium chocolatum	forehead
+8480	Microbacterium chocolatum	273	0.144978923	0.016523976	3.10E-05	Microbacterium chocolatum	nose
+5064	Microbacterium paludicola	205	0.205672022	0.003091772	2.01E-05	Microbacterium paludicola	cheek
+2143	Microbacterium paludicola	199	0.192886299	0.006342373	1.63E-05	Microbacterium paludicola	forehead
+8011	Microbacterium paludicola	219	0.201501928	0.002738342	8.42E-06	Microbacterium paludicola	nose
+5327	Microbacterium pygmaeum	246	0.134369109	0.035176179	1.17E-05	Microbacterium pygmaeum	cheek
+2456	Microbacterium pygmaeum	245	0.188770956	0.003013698	9.76E-06	Microbacterium pygmaeum	forehead
+8313	Microbacterium pygmaeum	261	0.162872193	0.008382121	5.40E-06	Microbacterium pygmaeum	nose
+5328	Microbacterium sp. LKL04	246	0.22319832	0.000419499	1.92E-05	Microbacterium sp. LKL04	cheek
+2504	Microbacterium sp. LKL04	249	0.221785251	0.000421699	1.47E-05	Microbacterium sp. LKL04	forehead
+8297	Microbacterium sp. LKL04	260	0.187908754	0.002346325	7.27E-06	Microbacterium sp. LKL04	nose
+5154	Microbacterium sp. XT11	220	0.140287148	0.03759582	1.01E-05	Microbacterium sp. XT11	cheek
+2195	Microbacterium sp. XT11	207	0.241534128	0.000454755	9.63E-06	Microbacterium sp. XT11	forehead
+7968	Microbacterium sp. XT11	210	0.169655453	0.013826528	5.56E-06	Microbacterium sp. XT11	nose
+5670	Moraxella bovoculi	271	0.317141917	9.55E-08	0.000290941	Moraxella bovoculi	cheek
+2658	Moraxella bovoculi	258	0.321736827	1.26E-07	0.000255595	Moraxella bovoculi	forehead
+8546	Moraxella bovoculi	276	0.227522305	0.00013737	0.000165661	Moraxella bovoculi	nose
+2659	Moraxella catarrhalis	258	0.272903919	8.71E-06	0.001831093	Moraxella catarrhalis	forehead
+8547	Moraxella catarrhalis	276	0.166854925	0.005453849	0.001236855	Moraxella catarrhalis	nose
+5641	Moraxella catarrhalis	270	0.231352776	0.00012503	0.000512904	Moraxella catarrhalis	cheek
+5903	Moraxella osloensis	276	0.361739131	5.89E-10	0.294462228	Moraxella osloensis	cheek
+2957	Moraxella osloensis	264	0.354953693	2.95E-09	0.289238604	Moraxella osloensis	forehead
+8794	Moraxella osloensis	282	0.276892934	2.34E-06	0.161390056	Moraxella osloensis	nose
+5288	Moraxella sp. O245	241	0.13664551	0.033986237	2.13E-05	Moraxella sp. O245	cheek
+2363	Moraxella sp. O245	233	0.131665482	0.044672366	1.98E-05	Moraxella sp. O245	forehead
+8176	Moraxella sp. O245	247	0.155343992	0.014529765	1.27E-05	Moraxella sp. O245	nose
+5422	Myroides odoratimimus	255	0.2876602	3.01E-06	0.000110507	Myroides odoratimimus	cheek
+2469	Myroides odoratimimus	246	0.24540926	0.000100604	8.78E-05	Myroides odoratimimus	forehead
+8315	Myroides odoratimimus	261	0.166303767	0.007089739	5.02E-05	Myroides odoratimimus	nose
+5380	Ornithobacterium rhinotracheale	252	0.173094952	0.005869892	1.21E-05	Ornithobacterium rhinotracheale	cheek
+2378	Ornithobacterium rhinotracheale	235	0.160951715	0.013499463	1.18E-05	Ornithobacterium rhinotracheale	forehead
+8224	Ornithobacterium rhinotracheale	253	0.123577283	0.049597918	5.82E-06	Ornithobacterium rhinotracheale	nose
+2610	Paracoccus aminophilus	256	0.194989016	0.001720303	8.17E-05	Paracoccus aminophilus	forehead
+5552	Paracoccus aminophilus	265	0.184615202	0.002552165	7.17E-05	Paracoccus aminophilus	cheek
+8390	Paracoccus aminophilus	267	0.160035638	0.008802253	3.24E-05	Paracoccus aminophilus	nose
+2771	Paracoccus aminovorans	262	0.201422263	0.001044048	0.000296966	Paracoccus aminovorans	forehead
+5687	Paracoccus aminovorans	272	0.182392753	0.002530967	0.000271116	Paracoccus aminovorans	cheek
+8615	Paracoccus aminovorans	280	0.184297048	0.001957196	0.000132153	Paracoccus aminovorans	nose
+2708	Paracoccus denitrificans	260	0.23874864	0.000101272	0.000113906	Paracoccus denitrificans	forehead
+5658	Paracoccus denitrificans	271	0.239099261	7.02E-05	0.000100211	Paracoccus denitrificans	cheek
+8557	Paracoccus denitrificans	277	0.185489381	0.001934257	5.36E-05	Paracoccus denitrificans	nose
+2440	Paracoccus kondratievae	243	0.211931345	0.000885797	0.000105031	Paracoccus kondratievae	forehead
+5463	Paracoccus kondratievae	259	0.182861002	0.003141127	8.79E-05	Paracoccus kondratievae	cheek
+8258	Paracoccus kondratievae	256	0.162309851	0.009281119	4.49E-05	Paracoccus kondratievae	nose
+2812	Paracoccus yeei	263	0.207751074	0.000698489	0.000673784	Paracoccus yeei	forehead
+5762	Paracoccus yeei	274	0.176874595	0.003307566	0.000615954	Paracoccus yeei	cheek
+8760	Paracoccus yeei	282	0.133321715	0.025161639	0.000307966	Paracoccus yeei	nose
+2552	Polymorphum gilvum	252	0.193318744	0.002051217	4.83E-05	Polymorphum gilvum	forehead
+5452	Polymorphum gilvum	258	0.124959883	0.044933851	4.20E-05	Polymorphum gilvum	cheek
+8284	Polymorphum gilvum	259	0.146902618	0.018001544	2.28E-05	Polymorphum gilvum	nose
+8374	Propionibacterium phage PHL064M02	265	0.190976858	0.001790329	0.000289374	Propionibacterium phage PHL064M02	nose
+5323	Propionibacterium phage PHL064M02	245	0.161044287	0.011591272	0.000183624	Propionibacterium phage PHL064M02	cheek
+2322	Propionibacterium phage PHL064M02	226	0.152323901	0.021985661	1.29E-05	Propionibacterium phage PHL064M02	forehead
+2594	Pseudopedobacter saltans	255	0.343513792	1.79E-08	0.000162303	Pseudopedobacter saltans	forehead
+5504	Pseudopedobacter saltans	262	0.295284339	1.14E-06	0.000124797	Pseudopedobacter saltans	cheek
+8466	Pseudopedobacter saltans	272	0.258591315	1.57E-05	5.39E-05	Pseudopedobacter saltans	nose
+2825	Psychrobacter alimentarius	263	0.259874724	1.97E-05	0.000167707	Psychrobacter alimentarius	forehead
+5719	Psychrobacter alimentarius	273	0.302974212	3.34E-07	0.000166168	Psychrobacter alimentarius	cheek
+8600	Psychrobacter alimentarius	279	0.156575486	0.008799109	0.000104853	Psychrobacter alimentarius	nose
+2787	Psychrobacter sp. AntiMn-1	262	0.287444187	2.24E-06	0.000214846	Psychrobacter sp. AntiMn-1	forehead
+5720	Psychrobacter sp. AntiMn-1	273	0.319585714	6.72E-08	0.000207447	Psychrobacter sp. AntiMn-1	cheek
+8652	Psychrobacter sp. AntiMn-1	281	0.208844403	0.000424755	0.000144619	Psychrobacter sp. AntiMn-1	nose
+2685	Psychrobacter sp. G	259	0.214306088	0.000515288	7.12E-05	Psychrobacter sp. G	forehead
+5569	Psychrobacter sp. G	266	0.231343253	0.000140607	6.64E-05	Psychrobacter sp. G	cheek
+8566	Psychrobacter sp. G	277	0.157058773	0.008833578	4.76E-05	Psychrobacter sp. G	nose
+5721	Psychrobacter sp. P11G5	273	0.30216551	3.60E-07	0.000208225	Psychrobacter sp. P11G5	cheek
+2686	Psychrobacter sp. P11G5	259	0.302206859	7.18E-07	0.000207844	Psychrobacter sp. P11G5	forehead
+8621	Psychrobacter sp. P11G5	280	0.184155224	0.001973263	0.000133026	Psychrobacter sp. P11G5	nose
+5175	Rhodobacter capsulatus	223	0.231050843	0.000504952	2.10E-05	Rhodobacter capsulatus	cheek
+2230	Rhodobacter capsulatus	212	0.24743977	0.000274533	1.72E-05	Rhodobacter capsulatus	forehead
+8020	Rhodobacter capsulatus	222	0.133648654	0.046700039	6.70E-06	Rhodobacter capsulatus	nose
+5659	Rhodobacter sp. LPB0142	271	0.236500587	8.45E-05	0.000192503	Rhodobacter sp. LPB0142	cheek
+2709	Rhodobacter sp. LPB0142	260	0.212803514	0.000551372	0.000187296	Rhodobacter sp. LPB0142	forehead
+8523	Rhodobacter sp. LPB0142	275	0.179302916	0.002844332	8.32E-05	Rhodobacter sp. LPB0142	nose
+2648	Rhodobacter sphaeroides	258	0.194353969	0.001709244	0.000101435	Rhodobacter sphaeroides	forehead
+5633	Rhodobacter sphaeroides	270	0.207138215	0.000614668	9.04E-05	Rhodobacter sphaeroides	cheek
+8541	Rhodobacter sphaeroides	276	0.164588642	0.006131641	5.04E-05	Rhodobacter sphaeroides	nose
+2801	Sphingobacterium sp. G1-14	263	0.318240806	1.33E-07	0.0004749	Sphingobacterium sp. G1-14	forehead
+5625	Sphingobacterium sp. G1-14	270	0.28716155	1.60E-06	0.000462356	Sphingobacterium sp. G1-14	cheek
+8611	Sphingobacterium sp. G1-14	280	0.22099428	0.000193319	0.00023138	Sphingobacterium sp. G1-14	nose
+2379	Sphingobacterium sp. ML3W	235	0.158131198	0.015246686	3.65E-05	Sphingobacterium sp. ML3W	forehead
+5279	Sphingobacterium sp. ML3W	240	0.163676707	0.011098566	3.65E-05	Sphingobacterium sp. ML3W	cheek
+8155	Sphingobacterium sp. ML3W	245	0.146067158	0.022201695	2.01E-05	Sphingobacterium sp. ML3W	nose
+5579	Sphingobacterium sp. PM2-P1-29	267	0.206339856	0.00069288	0.000178442	Sphingobacterium sp. PM2-P1-29	cheek
+2699	Sphingobacterium sp. PM2-P1-29	260	0.185362335	0.002695175	9.14E-05	Sphingobacterium sp. PM2-P1-29	forehead
+8447	Sphingobacterium sp. PM2-P1-29	271	0.134198338	0.027176512	4.42E-05	Sphingobacterium sp. PM2-P1-29	nose
+2389	Sphingobium herbicidovorans	236	0.132318792	0.042268669	1.31E-05	Sphingobium herbicidovorans	forehead
+5353	Sphingobium herbicidovorans	248	0.137234212	0.030735506	1.02E-05	Sphingobium herbicidovorans	cheek
+8121	Sphingobium herbicidovorans	240	0.137410759	0.033358011	8.88E-06	Sphingobium herbicidovorans	nose
+2147	Staphylococcus phage StB12	199	-0.152380984	0.031664521	9.66E-06	Staphylococcus phage StB12	forehead
+8067	Staphylococcus phage StB12	230	-0.173778022	0.008260282	7.60E-06	Staphylococcus phage StB12	nose
+5110	Staphylococcus phage StB12	212	-0.198817628	0.003651601	6.37E-06	Staphylococcus phage StB12	cheek
