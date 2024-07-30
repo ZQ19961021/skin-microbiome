@@ -1,0 +1,12 @@
+species	Elderly_mean	Young_mean	p.value
+k_Bacteria;p_Actinobacteria;c_Actinobacteria;o_Propionibacteriales;f_Propionibacteriaceae;g_Cutibacterium;s_Cutibacterium acnes	0.502542703	0.320857267	0.027694937
+k_Bacteria;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Chryseobacterium;s_Chryseobacterium greenlandense	1.57E-07	3.03E-07	0.006853608
+k_Bacteria;p_Firmicutes;c_Bacilli;o_Bacillales;f_Bacillaceae;g_Bacillus;s_Bacillus coagulans	3.60E-08	4.27E-07	0.006679964
+k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;s_beta proteobacterium CB	8.45E-05	0.000419683	0.001472135
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Moraxella;s_Moraxella osloensis	0.201514334	0.39451988	0.006395638
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Moraxellaceae;g_Psychrobacter;s_Psychrobacter sp. DAB_AL62B	7.10E-07	1.80E-06	0.02305053
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas fragi	5.38E-05	9.96E-05	0.046855684
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas lundensis	4.43E-06	1.18E-05	0.021790752
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas sp. NS1(2017)	2.57E-05	5.61E-05	0.007283568
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas thivervalensis	1.11E-07	3.84E-07	0.017579046
+k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas versuta	1.39E-06	2.81E-06	0.012271577
